@@ -2,7 +2,7 @@
 
 # tori&co · Gaming Store
 
-A yellow-and-black gaming storefront with original product illustrations and a complete demo shopping flow.
+A yellow-and-black gaming storefront with real branded product photos and a complete demo shopping flow.
 
 **HTML · CSS · JavaScript · SVG · Node.js tests**
 
@@ -10,8 +10,8 @@ A yellow-and-black gaming storefront with original product illustrations and a c
 
 ## Features
 
-- Eight concept products: GPUs, CPUs, headphones, keyboard, mouse, and monitor
-- Six locally stored original SVG illustrations
+- Six branded products: NVIDIA GPU, AMD CPU, and Razer headset, keyboard, mouse, and monitor
+- Real product images with [source credits](./IMAGE-SOURCES.md)
 - Product details, category filters, search, and price/name sorting
 - Cart quantity controls, removal, item counts, and CAD subtotal
 - Validated cart persistence in browser storage
@@ -28,7 +28,7 @@ Visit http://localhost:8000. On Windows, replace `python` with `py` if necessary
 
 ## Test
 
-Run `node test.cjs`. Tests cover catalogue filters, sorting, saved-cart validation, quantity limits, totals, and local asset references.
+Run `node test.cjs`. Tests cover catalogue filters, sorting, saved-cart validation, quantity limits, totals, and product photo references.
 
 ## Structure
 
@@ -42,8 +42,10 @@ Run `node test.cjs`. Tests cover catalogue filters, sorting, saved-cart validati
 
 ## Demo boundaries
 
-Products, specifications, and prices are fictional. No real payments, deliveries, inventory checks, or taxes are processed. No customer details are collected. The project is not affiliated with Razer or Amazon.
+Product names represent real branded hardware. Prices are sample CAD prices for this demo. No real payments, deliveries, inventory checks, or taxes are processed. No customer details are collected. The project is not affiliated with Razer or Amazon.
 
 ## Future work
 
 A production version would need a backend, a trusted product database, inventory validation, and a payment-provider integration.
+
+Product photos load from external sources and require an internet connection. Manufacturer and retailer image rights remain with their owners.
