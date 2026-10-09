@@ -6,7 +6,7 @@ A yellow-and-black gaming storefront with original product illustrations and a c
 
 **HTML · CSS · JavaScript · SVG · Node.js tests**
 
-### [Open the public live demo ↗](https://nexus-gaming-sagar.tunedboar9.chatgpt.site)
+### [Open the public live demo ↗](https://sagarkhatriii.github.io/gaming-store/)
 
 ## Features
 
