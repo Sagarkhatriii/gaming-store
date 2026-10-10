@@ -1,14 +1,19 @@
-# Product image sources
+# Product information and image sources
 
-Real product photography and manufacturer product imagery; no generated product illustrations are displayed. Images load directly from the credited sources. tori&co is an independent portfolio demo and is not an authorized reseller. Prices are demonstration values.
+Product photos are stored locally in PNG format for a consistent catalogue. No generated product imagery is used. Conversion and downsampling preserve the source product photograph; PNG does not imply a transparent background.
 
-| Product | Image source |
+The following Amazon.ca listings were retrieved on 10 October 2026. Descriptions are short paraphrases, not copied marketing text. Demo prices are independent sample CAD values, not Amazon prices. No affiliation is implied.
+
+| Product | Information and photograph source |
 | --- | --- |
-| NVIDIA GeForce RTX 4090 | [Source image](https://images.nvidia.com/aem-dam/Solutions/geforce/ada/rtx-4090/geforce-rtx-4090-product-gallery-inline-850-1.jpg) |
-| AMD Ryzen 7 7800X3D | [Source image](https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-7-7800x3d-og.jpg) |
-| Razer BlackShark V2 Pro | [Source image](https://media.hifi.lu/sys-master/products/9458894176286/2160x2160.61007879_10.webp) |
-| Razer Huntsman V3 Pro TKL | [Source image](https://assets3.razerzone.com/hX5FTTxuLq08WzPrp5TbJuX-BhY%3D/1920x1280/https%3A%2F%2Fmedias-p1.phoenix.razer.com%2Fsys-master-phoenix-images-container%2Fhf6%2Fh65%2F9705254191134%2Fhuntsman-v3-pro-tkl-2-500x500.png) |
-| Razer DeathAdder V3 Pro | [Source image](https://wo.ua/upload/resize_cache/iblock/99c/790_790_1/4ncl7clul4cdfdcjc819me0gv8yfjdqp.jpg) |
-| Razer Raptor 27 | [Source image](https://www.canex.ca/media/catalog/product/6/6/663166_539817_01_front_zoom.jpg) |
+| AMD Ryzen 7 7800X3D | https://www.amazon.ca/dp/B0BTZB7F88 |
+| Razer BlackShark V2 Pro (2023) | https://www.amazon.ca/dp/B0BY1FXC9N |
+| Razer Huntsman V3 Pro TKL | https://www.amazon.ca/dp/B0CG7BWG7J |
+| Razer DeathAdder V3 Pro | https://www.amazon.ca/dp/B0B6XZLNHQ |
 
-NVIDIA and AMD images: official manufacturer sites. Razer keyboard: official Razer CDN. Headset: Hifi.lu. Mouse: WO.UA. Monitor: Canex. Product trademarks and image rights belong to their respective owners.
+GPU and monitor Amazon listings could not be reliably retrieved. Their existing specifications are retained; their buttons open targeted Amazon searches, rather than asserting an exact listing match.
+
+- NVIDIA RTX 4090 Founders Edition photograph: https://images.nvidia.com/aem-dam/Solutions/geforce/ada/rtx-4090/geforce-rtx-4090-product-gallery-inline-850-1.jpg
+- Razer Raptor 27 photograph: https://www.canex.ca/media/catalog/product/6/6/663166_539817_01_front_zoom.jpg
+
+All brand names and photographs belong to their respective owners. This is a portfolio storefront with demo orders only.

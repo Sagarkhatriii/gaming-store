@@ -13,7 +13,7 @@ assert.deepEqual(normalizeCart(null), {});
 assert.deepEqual(normalizeCart([]), {});
 assert.deepEqual(totals({'gpu-apex':2, 'audio-phantom':1}), {count:3, subtotal:194700});
 assert.deepEqual(totals({}), {count:0, subtotal:0});
-for (const p of products) { const url = new URL(p.image); assert.equal(url.protocol, 'https:'); assert.ok(p.name && p.specs.length); }
+for (const p of products) { assert.ok(p.image.startsWith('assets/products/') && p.image.endsWith('.png')); const image = fs.readFileSync(`${__dirname}/dist/${p.image}`); assert.equal(image.subarray(0, 8).toString('hex'), '89504e470d0a1a0a'); assert.equal(new URL(p.source).hostname, 'www.amazon.ca'); assert.ok(p.name && p.specs.length); }
 const html = fs.readFileSync(`${__dirname}/dist/index.html`, 'utf8');
 for (const file of ['style.css', 'app.js']) {assert.ok(html.includes(file));assert.ok(fs.existsSync(`${__dirname}/dist/${file}`));}
 console.log('Passed: catalogue, category/search filters, sorting, cart validation, totals, limits, and product photo references.');
