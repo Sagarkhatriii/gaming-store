@@ -6,7 +6,7 @@ const products = [
     "name": "NVIDIA GeForce RTX 4090",
     "category": "GPUs",
     "price": 89900,
-    "image": "assets/products/gpu.png",
+    "image": "assets/products/gpu-cutout.png",
     "tag": "FLAGSHIP",
     "subtitle": "Founders Edition graphics card",
     "description": "A flagship NVIDIA graphics card for ambitious desktop builds.",
