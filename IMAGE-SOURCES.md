@@ -13,7 +13,7 @@ The following Amazon.ca listings were retrieved on 10 October 2026. Descriptions
 
 GPU and monitor Amazon listings could not be reliably retrieved. Their existing specifications are retained; their buttons open targeted Amazon searches, rather than asserting an exact listing match.
 
-- NVIDIA RTX 4090 Founders Edition photograph: https://images.nvidia.com/aem-dam/Solutions/geforce/ada/rtx-4090/geforce-rtx-4090-product-gallery-inline-850-1.jpg
+- NVIDIA RTX 4090 Founders Edition photograph: https://img.seekon.me/unsafe/q%3A80/plain/s3%3A//raw-images-qin0bitkrilstx/nvidia_rtx_4090_fe/3.png (NVIDIA photograph mirrored by seekon.me)
 - Razer Raptor 27 photograph: https://www.canex.ca/media/catalog/product/6/6/663166_539817_01_front_zoom.jpg
 
 All brand names and photographs belong to their respective owners. This is a portfolio storefront with demo orders only.
